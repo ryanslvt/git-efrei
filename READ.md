@@ -41,3 +41,6 @@ Je suis une nouvelle phrase !
 | git branch | -M, -d, -a (--all) | Créer ou renommer une branche de travail |
 | git merge | | Permet de fusionner l'historique Git de deux branches |
 | git push [<alias> <branche>] | -u (--set-upstream) | Envoie le code source et l'historique des versions sur le dépôt distant mentionnée |
+| git stash | | Retire et stocke en mémoire les changements non commité de la branceh actuelle |
+| git stash apply | Applique les changements du dernier patch sur la branche courante |
+| git fetch | -p forcée | récupérer les nvtés des autres branches et fichier |
